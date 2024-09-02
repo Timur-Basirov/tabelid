@@ -1,0 +1,59 @@
+table#t1{
+    border: 1px solid black; /*tavelipiir musta värviga ja paksus 1px*/
+    width: 50%;
+}
+table#t2{
+    border: 1px solid red; /*tavelipiir musta värviga ja paksus 1px*/
+    width: 30%;
+}
+table#t3{
+    border: 1px dotted black; /*tavelipiir musta värviga ja paksus 1px*/
+    width: 20%;
+}
+table#t4{
+    border: 1px solid black;
+    width:30%;
+}
+table#t5{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:30%;
+}
+table td{
+    border: 1px solid black;
+    text-align: center;
+}
+td.kollane{
+    background-color: yellow;
+
+}
+td.roheline{
+    background-color: green;
+}
+td.red{
+    background-color: red;
+}
+td.sinine{
+    background-color: blue;
+}
+td.pruun{
+    background-color: brown;
+}
+td.must{
+    background-color: black;
+}
+td.pink{
+    background-color: pink;
+}
+td.cyan{
+    background-color: cyan;
+}
+td.must-roheline{
+    background-color: darkgreen;
+}
+td.must-sinine{
+    background-color: darkblue;
+}
+td.grey{
+    background-color: grey;
+}
